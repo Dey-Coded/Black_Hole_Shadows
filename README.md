@@ -5,6 +5,6 @@ Classical mechanics and general relativity, Runge-Kutta, Image Processing
 Read the project report for detailed information.
 # Image Rendering Results
 ![alt text](https://github.com/Dey-Coded/Black_Hole_Shadows/blob/main/phib0.png?raw=true "Image from 0 degrees aziumuth")
-![alt text](https://github.com/Dey-Coded/Black_Hole_Shadows/blob/main/phib15.pngraw=true "Image from 15 degrees aziumuth")
-![alt text](https://github.com/Dey-Coded/Black_Hole_Shadows/blob/main/phib22_5.pngraw=true "Image from 22.5 degrees aziumuth")
-![alt text](https://github.com/Dey-Coded/Black_Hole_Shadows/blob/main/phib30.pngraw=true "Image from 30 degrees aziumuth")
+![alt text](https://github.com/Dey-Coded/Black_Hole_Shadows/blob/main/phib15.png?raw=true "Image from 15 degrees aziumuth")
+![alt text](https://github.com/Dey-Coded/Black_Hole_Shadows/blob/main/phib22_5.png?raw=true "Image from 22.5 degrees aziumuth")
+![alt text](https://github.com/Dey-Coded/Black_Hole_Shadows/blob/main/phib30.png?raw=true "Image from 30 degrees aziumuth")
